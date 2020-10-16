@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3796697c-54ce-4a70-96d1-cfe61d1fbce5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iJtb5eDzcpoZmhyUtaO4x2iLDR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bezou\Google Drive\Educanet\2020-2021\Praktická cvičení\jaziky\jazyky.projekt" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="jazyky.projekt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3796697c-54ce-4a70-96d1-cfe61d1fbce5" name="Default Changelist" comment="" />
+      <created>1601637591089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601637591089</updated>
+      <workItem from="1601637592350" duration="2343000" />
+      <workItem from="1601649036304" duration="5846000" />
+      <workItem from="1602239521947" duration="758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="138" key="FileChooserDialogImpl" timestamp="1601637848905">
+      <screen x="0" y="0" width="1418" height="768" />
+    </state>
+    <state x="489" y="138" key="FileChooserDialogImpl/0.0.1418.768@0.0.1418.768" timestamp="1601637848905" />
+    <state width="938" height="275" key="GridCell.Tab.0.bottom" timestamp="1602240280401">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="938" height="275" key="GridCell.Tab.0.bottom/1920.279.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1602240280401" />
+    <state width="938" height="275" key="GridCell.Tab.0.center" timestamp="1602240280401">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="938" height="275" key="GridCell.Tab.0.center/1920.279.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1602240280401" />
+    <state width="938" height="275" key="GridCell.Tab.0.left" timestamp="1602240280400">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="938" height="275" key="GridCell.Tab.0.left/1920.279.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1602240280400" />
+    <state width="938" height="275" key="GridCell.Tab.0.right" timestamp="1602240280401">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="938" height="275" key="GridCell.Tab.0.right/1920.279.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1602240280401" />
+    <state x="218" y="28" key="SettingsEditor" timestamp="1601638952442">
+      <screen x="0" y="0" width="1418" height="768" />
+    </state>
+    <state x="218" y="28" key="SettingsEditor/0.0.1418.768@0.0.1418.768" timestamp="1601638952442" />
+    <state x="690" y="270" key="extract.method.dialog" timestamp="1601649881465">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="690" y="270" key="extract.method.dialog/1920.279.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1601649881465" />
+  </component>
+</project>
