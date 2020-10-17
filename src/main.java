@@ -4,8 +4,12 @@ public class main {
         Varel varel = new Varel();
         Wall wall = new Wall();
 
-        System.out.println(Player.colliding());
-        System.out.println(Varel.colliding());
-        System.out.println(Wall.colliding());
+        try {
+            System.out.println(Entitty.colliding("Player"));
+            System.out.println(Entitty.colliding("Varel"));
+            System.out.println(Entitty.colliding("SWall"));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
